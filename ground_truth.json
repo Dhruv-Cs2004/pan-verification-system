@@ -1,0 +1,11 @@
+[
+  {
+    "image_path": "/Users/dhruvsapra/Downloads/untitled folder/.venv/pan-ocr-main/ocr_model/3.jpg",
+    "labels": {
+      "PAN Number": "PPUWPS8858Q",
+      "Name": "DHRUV SAPRA",
+      "DOB": "04/03/2004",
+      "Father Name": "AMIT SAPRA"
+    }
+  }
+]
